@@ -1,0 +1,11 @@
+C:\Code\OOP.2.7 - CarDealershipV05\bin\Debug\netcoreapp3.1\CarDealershipV05.exe
+C:\Code\OOP.2.7 - CarDealershipV05\bin\Debug\netcoreapp3.1\CarDealershipV05.deps.json
+C:\Code\OOP.2.7 - CarDealershipV05\bin\Debug\netcoreapp3.1\CarDealershipV05.runtimeconfig.json
+C:\Code\OOP.2.7 - CarDealershipV05\bin\Debug\netcoreapp3.1\CarDealershipV05.runtimeconfig.dev.json
+C:\Code\OOP.2.7 - CarDealershipV05\bin\Debug\netcoreapp3.1\CarDealershipV05.dll
+C:\Code\OOP.2.7 - CarDealershipV05\bin\Debug\netcoreapp3.1\CarDealershipV05.pdb
+C:\Code\OOP.2.7 - CarDealershipV05\obj\Debug\netcoreapp3.1\CarDealershipV05.csprojAssemblyReference.cache
+C:\Code\OOP.2.7 - CarDealershipV05\obj\Debug\netcoreapp3.1\CarDealershipV05.AssemblyInfoInputs.cache
+C:\Code\OOP.2.7 - CarDealershipV05\obj\Debug\netcoreapp3.1\CarDealershipV05.AssemblyInfo.cs
+C:\Code\OOP.2.7 - CarDealershipV05\obj\Debug\netcoreapp3.1\CarDealershipV05.dll
+C:\Code\OOP.2.7 - CarDealershipV05\obj\Debug\netcoreapp3.1\CarDealershipV05.pdb
